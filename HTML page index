@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hard Bass</title>
+</head>
+<!-- Aqui es donde se decora -->
+<style>
+html {
+  background-color: Gray;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: Silver;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+button{
+    background-color: Gray;
+    color: white;
+}
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+li{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+</style>
+<body>
+    <button id="1">Helo</button>
+    <h1>¿Que es el HardBass?</h1>
+    <p>Desde mi punto de vista es musica con orign en paises que eran de el bloque de barsovia</p>
+    <h2>¿Que es segun wikipedia?</h2>
+    <p>El 'Hard Bass' es un subgénero de la música electrónica de baile. Surgió a finales de la década de los noventa e inicios de los 2000 en Rusia, Polonia, Ucrania, países postsovieticos, y otras naciones de Europa del Este. Goza de influencias de otros subgéneros, tales como el House, Hard House y el Hardstyle. Se caracteriza por llevar un tempo rápido (entre 150 a 160 ppm), kicks fuertes, uso distintivo del bajo Donk y ocasionalmente rapeo en inglés, ruso u otras lenguas eslavas. Se ha convertido en estereotipo de la cultura gopnik y desde 2015 se volvió viral este subgénero gracias a los vídeos de personas bailando Hard Bass en público.</p>
+    <h2>Influencia de Internet</h2>
+    <p>Uno de los vídeos que popularizaron este estilo de música en Internet, fue "Cheeki Breeki Hardbass Anthem",del usuario de YouTube apartje, que en 2015 combinó la frase A nu, cheeki breeki i v damke (en ruso, A нy, чики-6pики и в дaмки!), del popular videojuego S.T.A.L.K.E.R.: Shadow of Chernobyl y utilizada por muchos de los personajes no jugadores, que en 2007 se convirtió en un meme, con este estilo musical, creando una de las obras más populares de la red. Actualmente la canción tiene más de 38 millones de visitas.
+
+        Otro video que se popularizó es el de la canción Tri poloski (en ruso, тpи пoлocки), que fue subida el 1/2/2016 por Davay. Su nombre en español significa tres líneas, la canción se llama así debido a las tres líneas de Adidas. Rápidamente se convirtió en un meme internacional, y popularizó este estilo de música. Actualmente la canción tiene más de 93 millones de visitas y 1.7 millones de me gusta.
+        
+        </p>
+        <!-- Aqui hay una lsita -->
+        <ul>
+            <li>Life of Boris</li>
+            <li>Alan aztec</li>
+            <li>uamee</li>
+            <li>DJ Blyatman</li>
+        </ul>
+        <iframe width="600" height="600" src="https://www.youtube.com/embed/j_podzD4cSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
